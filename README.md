@@ -16,7 +16,7 @@
 **[Poster(TODO)](-)** -->
 
 <!-- <h1 align="center"> -->
-Official code for the paper "On Strengthening and Defending Graph Reconstruction Attack with Markov Chain Approximation" (ICML 2023).
+Official code for the paper "On Strengthening and Defending Graph Reconstruction Attack with Markov Chain Approximation" (ICML 2023). MindScope version
 <!-- </h1> -->
 <!-- <p align="center"> -->
 <a href="https://arxiv.org/abs/2306.09104"><img src="https://img.shields.io/badge/arXiv-2306.09104-b31b1b.svg" alt="Paper"></a>
